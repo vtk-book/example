@@ -1,5 +1,6 @@
 ﻿
-# DICOMViewer 프로젝트 (교재 4장 예제)
+# DICOMViewer 프로젝트
+(교재 4장 예제)
 
 포함된 기능 
 - DICOM 폴더 읽기
