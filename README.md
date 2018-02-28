@@ -10,6 +10,6 @@ VTK 8.0 소스코드는 https://github.com/vtk-book/example/tree/master/SDK 에�
 (VTK-8.0.0.7z 파일)
 
 VTK 8.1 사용 시에는 "VTK교재 - GDCM_installation_guide.doc" 파일을 참고하여 설치하길 바랍니다.
-https://github.com/vtk-book/example/blob/master/VTK%EA%B5%90%EC%9E%AC%20-%20GDCM_installation_guide(VTK8.1%2BGDCM2.8.4).doc
+(https://github.com/vtk-book/example/blob/master/VTK교재%20-%20GDCM_installation_guide(VTK8.1+DCM2.8.4).doc)
 
 ![Alt text](/vtk_book.jpg "VTK 프로그래밍 (일진사)")
